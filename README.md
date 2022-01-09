@@ -2,7 +2,7 @@
 
 A collection of useful diagrams for Estonian learners
 
-# For Learners
+## For Learners
 - [Which case to use for accusative?](https://github.com/shyamajp/estonian-grammar/blob/main/accusative-case.svg)
 
 ## For Contributiers
